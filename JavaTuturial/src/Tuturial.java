@@ -25,7 +25,7 @@ public class Tuturial {
         } else {
             b = 4;
         }
-        myname = (a ==9) ? "hunter" : "mack";
+        myname = (a ==9) ? "hunter" : "Mack";
 
         System.out.println(myname);
     }
